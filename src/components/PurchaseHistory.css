@@ -1,0 +1,16 @@
+/* Inside your PurchaseHistory.css file */
+.PurchaseHistory {
+    margin: 20px;
+  }
+  
+  .OrderItem {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .OrderItem p {
+    margin: 5px 0;
+  }
+  

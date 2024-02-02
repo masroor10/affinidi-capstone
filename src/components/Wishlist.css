@@ -1,0 +1,32 @@
+/* wishlist.css */
+
+.Wishlist {
+    margin-top: 20px;
+  }
+  
+  .Wishlist h2 {
+    color: #333;
+  }
+  
+  .Wishlist ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Wishlist li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .Wishlist li button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
